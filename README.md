@@ -1,4 +1,1 @@
-alistairreilly.github.io
-========================
-
-My website
+[My website](http://alistairreilly.github.io)
